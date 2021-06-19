@@ -7,4 +7,4 @@ mv Camera backup
 cd $HOME
 cd /data/data/com.termux/files/home/Ip-Trace/__init__
 bash main.sh
-
+#echo
